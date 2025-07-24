@@ -26,4 +26,4 @@ I have done the project on Sports Tournament Tracker by using following guide:
 
 Tool used:MySQL (Command Line Client)
 
-wordpad for report
+
